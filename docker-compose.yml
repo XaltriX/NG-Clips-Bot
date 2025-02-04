@@ -1,0 +1,7 @@
+version: '3'
+services:
+  ng-clips-bot:
+    build: .
+    restart: always
+    environment:
+      - TOKEN=8083480600:AAGiwI__cQ9MpwXE7Uy50WIZPXWRwufuiqI
