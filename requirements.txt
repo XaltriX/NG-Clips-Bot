@@ -1,4 +1,4 @@
 python-telegram-bot
 moviepy
 aiohttp
-async-timeout
+asyncio
