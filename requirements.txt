@@ -2,3 +2,4 @@ python-telegram-bot
 moviepy
 aiohttp
 asyncio
+imageio[ffmpeg]
